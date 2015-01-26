@@ -1,34 +1,9 @@
-Component-MouseGesture
-======================
-
-마우스 제스처 컴포넌트
-
-## 개발날짜
-테스트..테스트..테스트..
-
-## 담당자
-FE 개발팀 이기현 <kihyun.lee@nhnent.com>
-
-## 설명
-- 마우스 제스처 컴포넌트입니다.
-
-## 기능정의
-- 다양한 마우스 이벤트(클릭, 더블 클릭, 롱탭, 드래그, 플리킹/스크롤)를 감지하고 이에 대한 정보를 콜백함수로 전송한다.
-
-## 샘플 페이지
-- http://github.nhnent.com/pages/FE/Component-MouseGesture/sample/index.html
-
-## 다운로드
-- http://github.nhnent.com/pages/FE/Component-MouseGesture/dist/
-
-## API문서
-- http://github.nhnent.com/pages/FE/Component-MouseGesture/
-
-## CI
-- http://fe.nhnent.com:8080/jenkins/job/Component-MouseGesture/
-
-## 개발 가이드
-- http://wiki.nhnent.com/pages/viewpage.action?pageId=241949461
-
-
-
+1. 컴포넌트에서 제공하는 기능 
+  * 마우스 제스처 컴포넌트(mouseGestureDetector)는 화면에서 유저가 발생시키는 마우스 제스처를 캐치하여 사용자 이벤트를 판단한다.
+  * 컴포넌트에서 판단하는 이벤트 제스처의 종류는 다음과 같다.
+    * 클릭(탭)
+    * 더블클릭 
+    * 롱탭 
+    * 드래그
+    * 플리킹, 스크롤 
+2. Item 3
