@@ -41,3 +41,23 @@ var obj = new ne.component.MouseGesture({
 });
 </script>
 ```
+----------
+![](http://wiki.nhnent.com/download/attachments/241949461/g2.png?version=1&modificationDate=1410402386000)
+
+[좌] 두 클릭 지점간의 거리값(clickDistance)보다 작으므로 더블클릭으로 판단한다. <br>
+[우] 두 클릭 지점간의 거리값(clickDistance)보다 크면 클릭으로 판단한다.<br>
+
+----------
+![](http://wiki.nhnent.com/download/attachments/241949461/g2.png?version=1&modificationDate=1410402386000)
+
+[좌] mouseDown 과 mouseUp사이의 시간보다 롱탭 기준시간(longTabTime)보다 짧게 유지되었을 경우 클릭으로 판단한다. <br>
+[우] mouseDown 과 mouseUp사이의 시간보다 롱탭 기준시간(longTabTime)보다 길게 유지되었을 경우 롱탭으로 판단한다. <br>
+
+----------
+![](http://wiki.nhnent.com/download/attachments/241949461/g3.png?version=1&modificationDate=1410402386000)
+
+[좌] flickScroll옵션중 availability를 false로 설정하면 flick이나 scroll을 구분하지 않고 drag이벤트만 판단한다. <br>
+[중] availability 옵션값을 true로 설정하고 flick/scroll을 판단하는 시간 기준값 800ms보다 길게 drag가 실행되었을 경우 drag이다. <br>
+[우] flick/scroll을 판단하는 시간 기준값 800ms보다 짧게 drag가 실행되었을 경우 flick/scroll을 판단한다. <br>
+
+
