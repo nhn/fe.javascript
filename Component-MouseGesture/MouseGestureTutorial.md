@@ -25,8 +25,13 @@ Component-MouseGesture
 
 설정값에 따른 제스처 판단 예제 
 --------
+다음은
+**longTab 기준시간을 300ms,  <br>
+클릭이 1번 이상 이루어졌을 경우 클릭간의 간격을 10px,  <br>
+800ms이내에 플리킹/스크롤이 이루어진 경우 플리킹/스크롤의 구분을 'degree'** <br>
+로 설정하는 예이다.
 ```html
-<script type="text/javascript" src="js/MouseGestureDetector.js"></script>
+<script type="text/javascript" src="js/Component-MouseGesture.js"></script>
  
 <script>
 var printCallback= function(obj) {
