@@ -1,4 +1,4 @@
-[Component-MouseGesture](https://github.nhnenet.com/FE/Component-MouseGesture/)
+Component-MouseGesture
 =================
 
 컴포넌트에서 제공하는 기능 
