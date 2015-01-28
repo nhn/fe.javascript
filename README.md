@@ -4,12 +4,12 @@
 > 가가가가
 
 ### CodeSnippet
-> 나나나나
+> - Share-CodeSnippet
 
 ### Component
-> - Component-SimpleMap
-> - Component-AutoComplete
-> - Component-SimpleGrid
-> - Component-Pagination
-> - Component-Tree
-> - Component-MouseGesture   [[Tutorial]](https://github.nhnent.com/FE/Component-MouseGesture/wiki)
+> - SimpleMap
+> - AutoComplete
+> - SimpleGrid
+> - Pagination
+> - Tree
+> - MouseGesture   [[Tutorial]](https://github.nhnent.com/FE/Component-MouseGesture/wiki)
