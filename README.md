@@ -14,8 +14,8 @@
 [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete) [[API]](https://github.nhnent.com/pages/FE/Component-AutoComplete/)
  [[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
 
-> - SimpleGrid <br>  [[Sample]](http://fetech.nhnent.com/svnrun/fetech/components/SimpleGrid/sample/sample.concat.html)
-[[API]](http://fetech.nhnent.com/svnrun/fetech/components/SimpleGrid/doc/index.html)  [[Download]](http://fetech.nhnent.com/svnrun/fetech/components/SimpleGrid/release/Component-SimpleGrid.zip)
+> - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/sample/sample.html)
+[[API]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/)  [[Download]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/dist)
 
 > - Pagination <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
