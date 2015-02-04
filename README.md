@@ -35,5 +35,5 @@
 > - Calendar <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Calendar/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar/tree/dist)
 
-> - InfiniteScroll  <br> [[Sample]](http://fetech.nhnent.com/InfiniteScroll/sample)
-[[Tutorial]]() [[API]](http://fetech.nhnent.com/InfiniteScroll/doc/latest/)  [[Download]](http://fetech.nhnent.com/InfiniteScroll/release/)
+> - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/index.html)
+[[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
