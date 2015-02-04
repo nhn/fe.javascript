@@ -14,7 +14,7 @@
 [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete) [[API]](https://github.nhnent.com/pages/FE/Component-AutoComplete/)
  [[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
 
-> - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/sample/sample.html)
+> - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/)  [[Download]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/dist)
 
 > - Pagination <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
@@ -35,5 +35,5 @@
 > - Calendar <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Calendar/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar/tree/dist)
 
-> - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/index.html)
+> - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
