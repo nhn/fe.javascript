@@ -20,8 +20,7 @@
 > - Pagination <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
 
-> - Tree       <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Tree/sample/)
-[[Tutorial]](https://github.nhnent.com/FE/tutorial/blob/master/Component-MouseGesture/MouseGestureTutorial.md) [[API]](https://github.nhnent.com/pages/FE/Component-Tree/)  [[Download]](https://github.nhnent.com/FE/Component-Tree/tree/dist)
+> - Tree       <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Tree/sample/) [[API]](https://github.nhnent.com/pages/FE/Component-Tree/)  [[Download]](https://github.nhnent.com/FE/Component-Tree/tree/dist)
 
 > - MouseGesture <br>   [[Sample]](http://github.nhnent.com/pages/FE/Component-MouseGesture/sample/index.html)
 [[Tutorial]](https://github.nhnent.com/FE/Component-MouseGesture/wiki) [[API]](http://github.nhnent.com/pages/FE/Component-MouseGesture/)  [[Download]](https://github.nhnent.com/pages/FE/Component-MouseGesture/dist/)
