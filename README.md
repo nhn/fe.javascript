@@ -7,8 +7,9 @@
 > - Share-CodeSnippet
 
 ### Component
-> - SimpleMap  <br>   [[Sample]](http://fe.nhnent.com:8080/jenkins/job/Component-SimpleMap/ws/tutorial/default.html)
-[[API]](http://fe.nhnent.com:8080/jenkins/job/Component-SimpleMap/ws/doc/index.html)
+
+> - Calendar <br> 
+[[Document]](https://github.nhnent.com/pages/fe/component-calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar)
 
 > - AutoComplete <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-AutoComplete/sample/default.html)
 [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete) [[API]](https://github.nhnent.com/pages/FE/Component-AutoComplete/)
@@ -31,8 +32,10 @@
 > - Pagination <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
 
-> - Calendar <br> 
-[[Document]](https://github.nhnent.com/pages/fe/component-calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar)
-
 > - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
+
+> - VirtualKeyboard  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
+[[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
+
+
