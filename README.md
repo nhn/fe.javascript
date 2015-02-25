@@ -31,8 +31,8 @@
 > - Pagination <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
 
-> - Calendar <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Calendar/sample/)
-[[API]](https://github.nhnent.com/pages/FE/Component-Calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar/tree/dist)
+> - Calendar <br> 
+[[Document]](https://github.nhnent.com/pages/fe/component-calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar/tree/dist)
 
 > - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
