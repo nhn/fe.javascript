@@ -15,8 +15,8 @@
 [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete) [[API]](https://github.nhnent.com/pages/FE/Component-AutoComplete/)
  [[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
 
-> - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/sample/)
-[[API]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/)  [[Download]](https://github.nhnent.com/pages/FE/Component-SimpleGrid/dist)
+> - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html)
+[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/)  [[Download]](https://github.nhnent.com/pages/fe/component-simple-grid/dist)
 
 > - Pagination <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
@@ -32,8 +32,8 @@
 > - Pagination <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
 
-> - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
-[[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
+> - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/fe/component-infinite-scroll/tutorial-sample1.html)
+[[API]](https://github.nhnent.com/pages/fe/component-infinite-scroll/)  [[Download]](https://github.nhnent.com/pages/fe/component-infinite-scroll/dist)
 
 > - VirtualKeyboard  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
