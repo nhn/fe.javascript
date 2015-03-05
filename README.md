@@ -4,9 +4,11 @@ Javascript 공통 모듈 및 컴포넌트, 개발 가이드 등 FE개발팀의 �
 배포되는 산출물은 FE개발팀에서 개발/관리하며, 모든 산출물은 사내에 한하여 자유롭게 사용할 수 있습니다.<br>
 FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서는 관리 및 보증을 할 수 없습니다.<br>
 추가/수정 요청, 문의 및 버그 신고는 [[FE개발팀 DL]](e0242@nhnent.com)을 이용해주세요.
+<br><br>
 
 ## Javascript 개발가이드
->  [준비중]입니다.
+[준비중]입니다.
+<br><br>
 
 ## CodeSnippet
 |Name|Category|Description|Documentation|
@@ -24,6 +26,7 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 ||string.js|문자열 관련 모듈||
 ||type.js|타입 체크 모듈||
 ||window.js|윈도우 객체 관련 모듈||
+<br>
 
 ## Component
 |Name|Description|Documentation|
