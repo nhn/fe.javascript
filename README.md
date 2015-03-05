@@ -16,7 +16,7 @@
  [[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
 
 > - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html)
-[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/)  [[Download]](https://github.nhnent.com/pages/fe/component-simple-grid/dist)
+[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/)  [[Download]](https://github.nhnent.com/fe/component-simple-grid)
 
 > - Pagination <br>  [[Sample]](https://github.nhnent.com/pages/FE/Component-Pagination/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
@@ -33,7 +33,7 @@
 [[API]](https://github.nhnent.com/pages/FE/Component-Pagination/)  [[Download]](https://github.nhnent.com/FE/Component-Pagination/tree/dist)
 
 > - InfiniteScroll  <br>[[Sample]](https://github.nhnent.com/pages/fe/component-infinite-scroll/tutorial-sample1.html)
-[[API]](https://github.nhnent.com/pages/fe/component-infinite-scroll/)  [[Download]](https://github.nhnent.com/pages/fe/component-infinite-scroll/dist)
+[[API]](https://github.nhnent.com/pages/fe/component-infinite-scroll/)  [[Download]](https://github.nhnent.com/fe/component-infinite-scroll/)
 
 > - VirtualKeyboard  <br>[[Sample]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/sample/)
 [[API]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/)  [[Download]](https://github.nhnent.com/pages/FE/Component-InfiniteScroll/dist)
