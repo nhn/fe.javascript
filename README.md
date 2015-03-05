@@ -1,19 +1,21 @@
 # FE개발팀 Tutorial
 
 ### Javascript 개발가이드
->  
+>  [준비중]입니다.
 
 ### CodeSnippet
-> - Share-CodeSnippet
+> - Share-CodeSnippet <br> [[API]]???
+[[Download]](https://github.nhnent.com/fe/share-code-snippet)
 
 ### Component
 
-> - Calendar <br> 
-[[Document]](https://github.nhnent.com/pages/fe/component-calendar/)  [[Download]](https://github.nhnent.com/FE/Component-Calendar)
+> - Calendar <br> [[API]](https://github.nhnent.com/pages/fe/component-calendar/)  
+[[Download]](https://github.nhnent.com/FE/Component-Calendar)
 
-> - AutoComplete <br> [[Sample]](https://github.nhnent.com/pages/FE/Component-AutoComplete/sample/default.html)
+> - AutoComplete <br> 
+[[Sample]](https://github.nhnent.com/pages/FE/Component-AutoComplete/sample/default.html)
 [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete) [[API]](https://github.nhnent.com/pages/FE/Component-AutoComplete/)
- [[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
+[[Download]](https://github.nhnent.com/pages/FE/Component-AutoComplete/dist/)
 
 > - SimpleGrid <br>  [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html)
 [[API]](https://github.nhnent.com/pages/fe/component-simple-grid/)  [[Download]](https://github.nhnent.com/fe/component-simple-grid)
