@@ -4,8 +4,21 @@
 >  [준비중]입니다.
 
 ### CodeSnippet
-> - Share-CodeSnippet <br> [[API]]???
-[[Download]](https://github.nhnent.com/fe/share-code-snippet)
+|Name|Category|Description|Documentation|
+| ---- | ---- | ---- | ---- |
+|CodeSnippet||자주 사용되는 코드 모음|[[API]]???, [[Download]](https://github.nhnent.com/fe/share-code-snippet)|
+|ㄴ|browser.js|브라우저 검출하는 모듈||
+|ㄴ|collection.js|콜렉션 관련 모듈||
+|ㄴ|customEvent.js|커스텀이벤트 모듈||
+|ㄴ|defineClass.js|클래스 관련 모듈||
+|ㄴ|enum.js|상수 관련 모듈||
+|ㄴ|func.js|함수 관련 모듈||
+|ㄴ|hashMap.js|해시맵 관련 모듈||
+|ㄴ|inheritance.js|간단한 상속 모듈||
+|ㄴ|object.js|객체 관련 모듈||
+|ㄴ|string.js|문자열 관련 모듈||
+|ㄴ|type.js|타입 체크 모듈||
+|ㄴ|window.js|윈도우 객체 관련 모듈||
 
 ### Component
 |Name|Description|Documentation|
