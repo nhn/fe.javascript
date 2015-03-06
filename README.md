@@ -22,13 +22,13 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 |[Rolling](https://github.nhnent.com/fe/component-rolling/)|롤링 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-rolling/), [[Sample]](https://github.nhnent.com/pages/fe/component-rolling/tutorial-index_default_nocircle.html), [[Download]](https://github.nhnent.com/fe/component-rolling)|
 |[SimpleGrid](https://github.nhnent.com/fe/component-simple-grid/)|심플그리드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/), [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-simple-grid)|
 |[Tree](https://github.nhnent.com/fe/component-tree/)|트리 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-tree/), [[Sample]](https://github.nhnent.com/pages/fe/component-tree/tutorial-index_default.html),  [[Download]](https://github.nhnent.com/fe/component-tree)|
-|[VirtualKeyboard](https://github.nhnent.com/fe/component-virtual-keyboard)|가상키보드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/), [[Sample]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/tutorial-mobile.html),  [[Download]](https://github.nhnent.com/fe/component-virtual-keyboard)|
+|[VirtualKeyboard](https://github.nhnent.com/fe/component-virtual-keyboard/)|가상키보드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/), [[Sample]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/tutorial-mobile.html),  [[Download]](https://github.nhnent.com/fe/component-virtual-keyboard)|
 <br>
 
 ## CodeSnippet
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
-|CodeSnippet||코드 스니펫 (자주 사용되는 코드 모음)|[[API]](https://github.nhnent.com/pages/fe/share-code-snippet/index.html), [[Download]](https://github.nhnent.com/fe/share-code-snippet), [Tutorial-준비중]|
+|[CodeSnippet](https://github.nhnent.com/fe/share-code-snippet/)||코드 스니펫 (자주 사용되는 코드 모음)|[[API]](https://github.nhnent.com/pages/fe/share-code-snippet/index.html), [[Download]](https://github.nhnent.com/fe/share-code-snippet), [Tutorial-준비중]|
 ||browser.js|브라우저 검출하는 모듈||
 ||collection.js|콜렉션 관련 모듈||
 ||customEvent.js|커스텀이벤트 모듈||
