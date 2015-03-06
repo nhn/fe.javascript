@@ -13,7 +13,7 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 ## CodeSnippet
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
-|CodeSnippet||코드 스니펫 (자주 사용되는 코드 모음)|[[API]]???, [[Download]](https://github.nhnent.com/fe/share-code-snippet)|
+|CodeSnippet||코드 스니펫 (자주 사용되는 코드 모음)|[[API]](https://github.nhnent.com/pages/fe/share-code-snippet/), [[Download]](https://github.nhnent.com/fe/share-code-snippet)|
 ||browser.js|브라우저 검출하는 모듈||
 ||collection.js|콜렉션 관련 모듈||
 ||customEvent.js|커스텀이벤트 모듈||
