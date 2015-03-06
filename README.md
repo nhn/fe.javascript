@@ -8,7 +8,22 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 
 ## Javascript 개발가이드
 [준비중]입니다.
-<br><br>
+<br>
+<br>
+
+## Component
+|Name|Description|Documentation|
+| ---- | ---- | ---- |
+|AutoComplete|검색어 자동완성 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-auto-complete), [[Sample]](https://github.nhnent.com/pages/fe/component-auto-complete/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-auto-complete), [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete)|
+|Calendar|캘린더 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-calendar/), [[Sample]](https://github.nhnent.com/pages/fe/component-calendar/tutorial-default.html), [[Download]](https://github.nhnent.com/fe/component-calendar/)|
+|InfiniteScroll|무한 스크롤 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-infinite-scroll/), [[Sample]](https://github.nhnent.com/pages/fe/component-infinite-scroll/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-infinite-scroll/)|
+| MouseGesture|마우스제스쳐 컴포넌트|[[API]](http://github.nhnent.com/pages/fe/component-mouse-gesture/), [[Sample]](http://github.nhnent.com/pages/fe/component-mouse-gesture/tutorial-sample_default.html),  [[Download]](https://github.nhnent.com/fe/component-mouse-gesture), [[Tutorial]](https://github.nhnent.com/fe/component-mouse-gesture/wiki)|
+|Pagination|페이지네이션 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-pagination/), [[Sample]](https://github.nhnent.com/pages/fe/component-pagination/tutorial-default.html),  [[Download]](https://github.nhnent.com/fe/component-pagination/)|
+|Rolling|롤링 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-rolling/), [[Sample]](https://github.nhnent.com/pages/fe/component-rolling/tutorial-index_default_nocircle.html), [[Download]](https://github.nhnent.com/fe/component-rolling)|
+|SimpleGrid|심플그리드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/), [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-simple-grid)|
+|Tree|트리 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-tree/), [[Sample]](https://github.nhnent.com/pages/fe/component-tree/tutorial-index_default.html),  [[Download]](https://github.nhnent.com/fe/component-tree)|
+|VirtualKeyboard|가상키보드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/), [[Sample]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/tutorial-mobile.html),  [[Download]](https://github.nhnent.com/fe/component-virtual-keyboard)|
+<br>
 
 ## CodeSnippet
 |Name|Category|Description|Documentation|
@@ -26,21 +41,6 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 ||string.js|문자열 관련 모듈||
 ||type.js|타입 체크 모듈||
 ||window.js|윈도우 객체 관련 모듈||
-<br>
-
-## Component
-|Name|Description|Documentation|
-| ---- | ---- | ---- |
-|AutoComplete|검색어 자동완성 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-auto-complete), [[Sample]](https://github.nhnent.com/pages/fe/component-auto-complete/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-auto-complete), [[Tutorial]](https://github.nhnent.com/FE/Component-AutoComplete/wiki/Component-AutoComplete)|
-|Calendar|캘린더 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-calendar/), [[Sample]](https://github.nhnent.com/pages/fe/component-calendar/tutorial-default.html), [[Download]](https://github.nhnent.com/fe/component-calendar/)|
-|InfiniteScroll|무한 스크롤 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-infinite-scroll/), [[Sample]](https://github.nhnent.com/pages/fe/component-infinite-scroll/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-infinite-scroll/)|
-| MouseGesture|마우스제스쳐 컴포넌트|[[API]](http://github.nhnent.com/pages/fe/component-mouse-gesture/), [[Sample]](http://github.nhnent.com/pages/fe/component-mouse-gesture/tutorial-sample_default.html),  [[Download]](https://github.nhnent.com/fe/component-mouse-gesture), [[Tutorial]](https://github.nhnent.com/fe/component-mouse-gesture/wiki)|
-|Pagination|페이지네이션 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-pagination/), [[Sample]](https://github.nhnent.com/pages/fe/component-pagination/tutorial-default.html),  [[Download]](https://github.nhnent.com/fe/component-pagination/)|
-|Rolling|롤링 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-rolling/), [[Sample]](https://github.nhnent.com/pages/fe/component-rolling/tutorial-index_default_nocircle.html), [[Download]](https://github.nhnent.com/fe/component-rolling)|
-|SimpleGrid|심플그리드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/), [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-simple-grid)|
-|Tree|트리 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-tree/), [[Sample]](https://github.nhnent.com/pages/fe/component-tree/tutorial-index_default.html),  [[Download]](https://github.nhnent.com/fe/component-tree)|
-|VirtualKeyboard|가상키보드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/), [[Sample]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/tutorial-mobile.html),  [[Download]](https://github.nhnent.com/fe/component-virtual-keyboard)|
-
 
 
 
