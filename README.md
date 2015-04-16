@@ -7,11 +7,9 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 <br><br>
 
 ## 자바스크립트 개발가이드
-자바스크립트 개발 시 필요한 내용들을 가이드합니다.<br>
-본 문서는 코딩컨벤션, 디버깅, 테스트 등과 같이 기본적인 내용부터 배포
-https://github.nhnent.com/fe/javascript/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EA%B0%80%EC%9D%B4%EB%93%9C
-<br>
-<br>
+자바스크립트 개발 시 필요한 내용들을 가이드 합니다.<br>
+본 문서는 코딩컨벤션, 디버깅, 테스트 등과 같이 기본적인 내용부터 의존성 관리 및 압축까지의 개발 전반에 대한 내용을 다룹니다.
+<br><br>
 
 ## Component
 |Name|Description|Documentation|
