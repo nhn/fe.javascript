@@ -6,8 +6,9 @@ FE개발팀의 동의없이 임의로 수정하여 사용된 코드에 대해서
 추가/수정 요청, 문의 및 버그 신고는 [[FE개발팀 DL]](mailto:e0242@nhnent.com)을 이용해주세요.
 <br><br>
 
-## JavaScript 개발가이드
-[준비중]입니다.
+## 자바스크립트 개발가이드
+자바스크립트 개발 시 필요한 내용들을 가이드합니다.<br>
+https://github.nhnent.com/fe/javascript/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EA%B0%80%EC%9D%B4%EB%93%9C
 <br>
 <br>
 
