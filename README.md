@@ -5,13 +5,13 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 FE개발팀의 동의 없이 임의로 수정하여 사용된 코드에 대해서는 유지보스 관리 및 산출물의 품질을 보증을 할 수 없습니다.<br>
 추가/수정 요청, 문의 및 버그 신고는 [[FE개발팀 DL]](mailto:e0242@nhnent.com)을 이용해주세요.<br>
 
-<br><br>
+<br>
 ## 자바스크립트 개발 가이드
 자바스크립트 개발 시 필요한 내용들을 가이드 합니다.<br>
 본 문서는 코딩컨벤션, 디버깅, 테스트 등과 같이 기본적인 내용부터 의존성 관리 및 압축까지의 개발 전반에 대한 내용을 다룹니다.
 > [자바스크립트 개발 가이드](https://github.nhnent.com/fe/javascript/wiki) 바로가기
 
-<br><br>
+<br>
 ## Component
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
@@ -24,8 +24,8 @@ FE개발팀의 동의 없이 임의로 수정하여 사용된 코드에 대해�
 |[SimpleGrid](https://github.nhnent.com/fe/component-simple-grid/)|심플그리드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-simple-grid/), [[Sample]](https://github.nhnent.com/pages/fe/component-simple-grid/tutorial-sample1.html),  [[Download]](https://github.nhnent.com/fe/component-simple-grid)|
 |[Tree](https://github.nhnent.com/fe/component-tree/)|트리 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-tree/), [[Sample]](https://github.nhnent.com/pages/fe/component-tree/tutorial-index_default.html),  [[Download]](https://github.nhnent.com/fe/component-tree)|
 |[VirtualKeyboard](https://github.nhnent.com/fe/component-virtual-keyboard/)|가상키보드 컴포넌트|[[API]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/), [[Sample]](https://github.nhnent.com/pages/fe/component-virtual-keyboard/tutorial-mobile.html),  [[Download]](https://github.nhnent.com/fe/component-virtual-keyboard)|
-<br>
 
+<br>
 ## CodeSnippet
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
