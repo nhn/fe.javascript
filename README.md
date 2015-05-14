@@ -47,4 +47,4 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 
 <br>
 ## License
-MIT license
+[MIT 라이선스](LICENSE)로 자유롭게 사용할 수 있습니다.
