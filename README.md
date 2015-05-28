@@ -37,7 +37,7 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## Mobile Component
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[AppLoader](https://github.com/nhnent/fe.component-m-app-loader)|앱로더 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/), [[Sample]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/tutorial-tutorial.html),  [[Download]](https://github.com/nhnent/fe.component-m-app-loader), [[Tutorial]](https://github.nhnent.com/fe/component-m-app-loader/wiki/%EC%95%B1%EB%A1%9C%EB%8D%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95)|
+|[AppLoader](https://github.com/nhnent/fe.component-m-app-loader)|앱로더 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/), [[Sample]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/tutorial-tutorial.html),  [[Download]](https://github.com/nhnent/fe.component-m-app-loader), [[Tutorial]](https://github.com/nhnent/fe.component-m-app-loader/wiki/%EC%95%B1%EB%A1%9C%EB%8D%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95)|
 |[Flicking](https://github.com/nhnent/fe.component-m-flicking/)|플리킹 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-flicking/1.0.0/), [[Sample]](https://nhnent.github.io/fe.component-m-flicking/1.0.0/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.component-m-flicking/), [[Tutorial]](https://github.com/nhnent/fe.component-m-flicking/wiki/플리킹-컴포넌트-적용방법)|
 
 <br>
