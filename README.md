@@ -44,7 +44,7 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## CodeSnippet
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
-|[CodeSnippet](https://github.com/nhnent/fe.code-snippet/)||코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhnent.github.io/fe.code-snippet/1.0.0/index.html), [[Download]](https://github.com/nhnent/fe.code-snippet/), [[Tutorial]](https://github.com/nhnent/fe.javascript/wiki/FE-CodeSnippet)|
+|[CodeSnippet](https://github.com/nhnent/fe.code-snippet/)||코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhnent.github.io/fe.code-snippet/1.0.2/index.html), [[Download]](https://github.com/nhnent/fe.code-snippet/), [[Tutorial]](https://github.com/nhnent/fe.javascript/wiki/FE-CodeSnippet)|
 ||browser.js|브라우저 검출하는 모듈||
 ||collection.js|콜렉션 관련 모듈||
 ||customEvent.js|커스텀이벤트 모듈||
