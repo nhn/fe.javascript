@@ -39,14 +39,14 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## Mobile Component
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[AppLoader](https://github.com/nhnent/fe.component-m-app-loader)|앱로더 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/), [[Sample]](https://nhnent.github.io/fe.component-m-app-loader/1.0.0/tutorial-tutorial.html),  [[Download]](https://github.com/nhnent/fe.component-m-app-loader), [[Tutorial]](https://github.com/nhnent/fe.component-m-app-loader/wiki/%EC%95%B1%EB%A1%9C%EB%8D%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95)|
-|[Flicking](https://github.com/nhnent/fe.component-m-flicking/)|플리킹 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-flicking/1.0.0/), [[Sample]](https://nhnent.github.io/fe.component-m-flicking/1.0.0/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.component-m-flicking/), [[Tutorial]](https://github.com/nhnent/fe.component-m-flicking/wiki/플리킹-컴포넌트-적용방법)|
+|[AppLoader](https://github.com/nhnent/fe.component-m-app-loader)|앱로더 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-app-loader/latest/), [[Sample]](https://nhnent.github.io/fe.component-m-app-loader/latest/tutorial-tutorial.html),  [[Download]](https://github.com/nhnent/fe.component-m-app-loader), [[Tutorial]](https://github.com/nhnent/fe.component-m-app-loader/wiki/%EC%95%B1%EB%A1%9C%EB%8D%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95)|
+|[Flicking](https://github.com/nhnent/fe.component-m-flicking/)|플리킹 컴포넌트|[[API]](https://nhnent.github.io/fe.component-m-flicking/latest/), [[Sample]](https://nhnent.github.io/fe.component-m-flicking/latest/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.component-m-flicking/), [[Tutorial]](https://github.com/nhnent/fe.component-m-flicking/wiki/플리킹-컴포넌트-적용방법)|
 
 <br>
 ## CodeSnippet
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
-|[CodeSnippet](https://github.com/nhnent/fe.code-snippet/)||코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhnent.github.io/fe.code-snippet/1.0.2/index.html), [[Download]](https://github.com/nhnent/fe.code-snippet/), [[Tutorial]](https://github.com/nhnent/fe.javascript/wiki/FE-CodeSnippet)|
+|[CodeSnippet](https://github.com/nhnent/fe.code-snippet/)||코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhnent.github.io/fe.code-snippet/latest/index.html), [[Download]](https://github.com/nhnent/fe.code-snippet/), [[Tutorial]](https://github.com/nhnent/fe.javascript/wiki/FE-CodeSnippet)|
 ||browser.js|브라우저 검출하는 모듈||
 ||collection.js|콜렉션 관련 모듈||
 ||customEvent.js|커스텀이벤트 모듈||
