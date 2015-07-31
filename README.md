@@ -15,7 +15,7 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## Application
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[Grid](https://github.com/nhnent/fe.application-grid)|그리드|[[API]](https://nhnent.github.io/fe.application-grid/1.0.0/), [[Sample]](https://nhnent.github.io/fe.application-grid/1.0.0/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.application-grid), [[Tutorial]](https://github.com/nhnent/fe.application-grid/wiki/어플리케이션-그리드-적용하기)|
+|[Grid](https://github.com/nhnent/fe.application-grid)|그리드|[[API]](https://nhnent.github.io/fe.application-grid/api/), [[Sample]](https://nhnent.github.io/fe.application-grid/api/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.application-grid), [[Tutorial]](https://github.com/nhnent/fe.application-grid/wiki/어플리케이션-그리드-적용하기)|
  
 <br>
 ## Component
