@@ -16,7 +16,7 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
 |[Grid](https://github.com/nhnent/fe.application-grid)|그리드|[[API]](https://nhnent.github.io/fe.application-grid/api/), [[Sample]](https://nhnent.github.io/fe.application-grid/api/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/fe.application-grid), [[Tutorial]](https://github.com/nhnent/fe.application-grid/wiki/어플리케이션-그리드-적용하기)|
-|[Chart](https://github.com/nhnent/fe.application-chart)|차트|[[API]](https://nhnent.github.io/fe.application-chart/latest/ne.application.chart.html), [[Sample]](https://nhnent.github.io/fe.application-chart/latest/tutorial-sample-bar-chart.html),  [[Download]](https://github.com/nhnent/fe.application-chart), [[Tutorial]](https://github.com/nhnent/fe.application-chart/wiki/application-tutorial)|
+|[Chart](https://github.com/nhnent/tui.chart)|차트|[[API]](https://nhnent.github.io/tui.chart/latest), [[Sample]](https://github.com/nhnent/tui.chart/wiki/samples),  [[Download]](https://github.com/nhnent/tui.chart), [[Tutorial]](https://github.com/nhnent/tui.chart/wiki/tutorial)|
  
 <br>
 ## Component
