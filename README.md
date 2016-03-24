@@ -15,7 +15,7 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## Application
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[Grid](https://github.com/nhnent/tui-grid)|그리드|[[API]](https://nhnent.github.io/tui.grid/api), [[Sample]](https://nhnent.github.io/tui.grid/api/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/tui.grid/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.grid/wiki/설치-및-사용방법)|
+|[Grid](https://github.com/nhnent/tui.grid)|그리드|[[API]](https://nhnent.github.io/tui.grid/api), [[Sample]](https://nhnent.github.io/tui.grid/api/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/tui.grid/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.grid/wiki/설치-및-사용방법)|
 |[Chart](https://github.com/nhnent/tui.chart)|차트|[[API]](https://nhnent.github.io/tui.chart/latest), [[Sample]](http://nhnent.github.io/tui.chart/latest/tutorial.html),  [[Download]](https://github.com/nhnent/tui.chart), [[Tutorial]](https://github.com/nhnent/tui.chart/wiki/tutorial)|
  
 <br>
