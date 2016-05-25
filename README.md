@@ -24,8 +24,10 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 | ---- | ---- | ---- |
 |[AutoComplete](https://github.com/nhnent/tui.component.auto-complete)|검색어 자동완성 컴포넌트|[[API]](https://nhnent.github.io/tui.component.auto-complete/latest/), [[Sample]](https://nhnent.github.io/tui.component.auto-complete/latest/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/tui.component.auto-complete), [[Tutorial]](https://github.com/nhnent/tui.component.auto-complete/wiki/Auto-Complete-Tutorial)|
 |[Calendar](https://github.com/nhnent/tui.component.calendar/)|캘린더 컴포넌트|[[API]](https://nhnent.github.io/tui.component.calendar/latest/), [[Sample]](https://nhnent.github.io/tui.component.calendar/latest/tutorial-sample1.html), [[Download]](https://github.com/nhnent/tui.component.calendar/), [[Tutorial]](https://github.com/nhnent/tui.component.calendar/wiki/Calendar-Tutorial)|
+|[ContextMenu](https://github.com/nhnent/tui.component.contextmenu)|컨텍스트메뉴 컴포넌트|[[API]](https://nhnent.github.io/tui.component.contextmenu/latest/), [[Sample]](https://nhnent.github.io/tui.component.contextmenu/latest/tutorial-default.html),  [[Download]](https://github.com/nhnent/tui.component.contextmenu)|
 |[DatePicker](https://github.com/nhnent/tui.component.date-picker/)|데이트 피커 컴포넌트|[[API]](https://nhnent.github.io/tui.component.date-picker/latest), [[Sample]](https://nhnent.github.io/tui.component.date-picker/latest/tutorial-sample1.html), [[Download]](https://github.com/nhnent/tui.component.date-picker/), [[Tutorial]](https://github.com/nhnent/tui.component.date-picker/wiki/date-picker-컴포넌트-적용방법)|
 |[Effects](https://github.com/nhnent/tui.component.effects/)|이펙트  컴포넌트|[[API]](https://nhnent.github.io/tui.component.effects/latest), [[Sample]](https://nhnent.github.io/tui.component.effects/latest/tutorial-sample1.html), [[Download]](https://github.com/nhnent/tui.component.effects/), [[Tutorial]](https://github.com/nhnent/tui.component.effects/wiki/Effects-Tutorial)|
+|[FloatingLayer](https://github.com/nhnent/tui.component.floatinglayer)|플로팅레이어 컴포넌트|[[API]](https://nhnent.github.io/tui.component.floatinglayer/latest/), [[Sample]](https://nhnent.github.io/tui.component.floatinglayer/latest/tutorial-default.html),  [[Download]](https://github.com/nhnent/tui.component.floatinglayer)|
 |[GestureReader](https://github.com/nhnent/tui.component.gesture-reader/)|제스처 리더 컴포넌트|[[API]](https://nhnent.github.io/tui.component.gesture-reader/latest/), [[Sample]](https://nhnent.github.io/tui.component.gesture-reader/latest/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/tui.component.gesture-reader), [[Tutorial]](https://github.com/nhnent/tui.component.gesture-reader/wiki/Gesture-Reader-Tutorial)|
 |[ImageEditor](https://github.com/nhnent/tui.component.image-editor)|이미지 에디터 컴포넌트|[[API]](http://nhnent.github.io/tui.component.image-editor/latest/), [[Sample]](http://nhnent.github.io/tui.component.image-editor/latest/tutorial-basic.html),  [[Download]](https://github.com/nhnent/tui.component.image-editor#downloadinstall), [[Tutorial]](https://github.com/nhnent/tui.component.image-editor/wiki/Tutorial)|
 |[InfiniteScroll](https://github.com/nhnent/tui.component.infinite-scroll/)|무한 스크롤 컴포넌트|[[API]](https://nhnent.github.io/tui.component.infinite-scroll/latest/), [[Sample]](https://nhnent.github.io/tui.component.infinite-scroll/latest/tutorial-sample1.html),  [[Download]](https://github.com/nhnent/tui.component.infinite-scroll/), [[Tutorial]](https://github.com/nhnent/tui.component.infinite-scroll/wiki/InfiniteScroll-Tutorial)|
@@ -64,7 +66,9 @@ FE개발팀에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ||type.js|타입 체크 모듈||
 ||window.js|윈도우 객체 관련 모듈||
 
-
-<br>
+## Domutil
+|Name|Description|Documentation|
+| ---- | ---- | ---- |
+|[domutil](https://github.com/nhnent/tui.domutil/)|DOM 유틸<br>(DOM 관련 클래스 지정 및 이벤트 바인딩 함수 모음)|[[API]](https://nhnent.github.io/tui.domutil/latest/index.html), [[Download]](https://github.com/nhnent/tui.domutil/)|
 ## License
 [MIT 라이선스](LICENSE)로 자유롭게 사용할 수 있습니다.
