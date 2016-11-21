@@ -74,7 +74,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 |Name|Description| Documentation |
 | ---- | ---- | ---- |
 |[Dom](https://github.com/nhnent/tui.dom)|DOM 유틸<br>(DOM 관련 클래스 지정 및 이벤트 바인딩 함수 모음)|[[API]](https://nhnent.github.io/tui.dom/latest/), [[Download]](https://github.com/nhnent/tui.dom/tree/master/dist)|
-|[TUI JSDoc Template](https://github.com/nhnent/tui.jsdoc-template)|JSDoc Template (JS API 문서화 템플릿) [[Demo]](https://nhnent.github.io/tui.jsdoc-template/latest/), [[Npm]](https://www.npmjs.com/package/tui-jsdoc-template)|
+|[TUI JSDoc Template](https://github.com/nhnent/tui.jsdoc-template)|JSDoc Template (JS API 문서화 템플릿) | [[Demo]](https://nhnent.github.io/tui.jsdoc-template/latest/), [[Npm]](https://www.npmjs.com/package/tui-jsdoc-template)|
 
 ## License
 [MIT 라이선스](LICENSE)로 자유롭게 사용할 수 있습니다.
