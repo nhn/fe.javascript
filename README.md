@@ -15,7 +15,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 ## Application
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[Chart](https://github.com/nhnent/tui.chart)|차트|[[API]](https://nhnent.github.io/tui.chart/latest), [[Example]](https://nhnent.github.io/tui.chart/latest/tutorial.html),  [[Download]](https://github.com/nhnent/tui.chart/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.chart/wiki/getting-started)|
+|[Chart](https://github.com/nhnent/tui.chart)|차트|[[API]](https://nhnent.github.io/tui.chart/latest), [[Example]](https://nhnent.github.io/tui.chart/latest/tutorial-sample01-01-bar-chart.html),  [[Download]](https://github.com/nhnent/tui.chart/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.chart/wiki/getting-started)|
 |[Editor](https://github.com/nhnent/tui.editor)|에디터|[[API]](https://nhnent.github.io/tui.editor/api/latest/), [[Example]](https://nhnent.github.io/tui.editor/),  [[Download]](https://github.com/nhnent/tui.editor/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.editor/wiki/Getting-Started)|
 |[Grid](https://github.com/nhnent/tui.grid)|그리드|[[API]](https://nhnent.github.io/tui.grid/api), [[Example]](https://nhnent.github.io/tui.grid/api/tutorial-example1.html),  [[Download]](https://github.com/nhnent/tui.grid/tree/master/dist), [[Tutorial]](https://github.com/nhnent/tui.grid/wiki/Getting-Started)|
  
