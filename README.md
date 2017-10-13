@@ -55,7 +55,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
 |[AppLoader](https://github.com/nhnent/tui.app-loader)|앱로더 컴포넌트|[[API]](http://nhnent.github.io/tui.app-loader/latest/), [[Example]](http://nhnent.github.io/tui.app-loader/latest/tutorial-example01-button.html), [[Tutorial]](https://github.com/nhnent/tui.app-loader/wiki/TUI-AppLoader-2.0.0-Migration-Guide)|
-|[Flicking](https://github.com/nhnent/tui.component.m-flicking/)|플리킹 컴포넌트|[[API]](https://nhnent.github.io/tui.component.m-flicking/latest/), [[Example]](https://nhnent.github.io/tui.component.m-flicking/latest/tutorial-sample1.html), [[Tutorial]](https://github.com/nhnent/tui.component.m-flicking/wiki/Mobile-Flicking-Tutorial)|
+|[Flicking](https://github.com/nhnent/tui.flicking/)|플리킹 컴포넌트|[[API]](http://nhnent.github.io/tui.flicking/latest/), [[Example]](https://nhnent.github.io/tui.flicking/latest/tutorial-example01-basic.html), [[Tutorial]](https://github.com/nhnent/tui.flicking/wiki)|
 
 <br>
 
