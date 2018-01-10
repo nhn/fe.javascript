@@ -30,7 +30,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[Animation](https://github.com/nhnent/tui.animation)|애니메이션 효과 컴포넌트| [[API]](https://nhnent.github.io/tui.animation/latest/), [[Example]](https://nhnent.github.io/tui.animation/latest/tutorial-example1-basic.html)|
+|[Animation](https://github.com/nhnent/tui.animation)|애니메이션 효과 컴포넌트| [[API]](https://nhnent.github.io/tui.animation/latest/), [[Example]](https://nhnent.github.io/tui.animation/latest/tutorial-example01-basic.html)|
 |[AutoComplete](https://github.com/nhnent/tui.auto-complete)|검색어 자동완성 컴포넌트|[[API]](http://nhnent.github.io/tui.auto-complete/latest/), [[Example]](http://nhnent.github.io/tui.auto-complete/latest/tutorial-example01-basic-usage.html), [[Tutorial]](https://github.com/nhnent/tui.auto-complete/wiki)|
 |[ColorPicker](https://github.com/nhnent/tui.color-picker)|컬러 피커 컴포넌트|[[API]](http://nhnent.github.io/tui.color-picker/latest/), [[Example]](http://nhnent.github.io/tui.color-picker/latest/tutorial-example00.html), [[Tutorial]](https://github.com/nhnent/tui.color-picker/wiki/Installation)|
 |[ContextMenu](https://github.com/nhnent/tui.context-menu)|컨텍스트 메뉴 컴포넌트|[[API]](http://nhnent.github.io/tui.context-menu/latest/), [[Example]](http://nhnent.github.io/tui.context-menu/latest/tutorial-example01-basic-usage.html), [[Tutorial]](https://github.com/nhnent/tui.context-menu/wiki/English-Version)|
