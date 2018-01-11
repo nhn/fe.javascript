@@ -16,7 +16,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 
 <br>
 
-## Application
+## Applications
 
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
@@ -26,7 +26,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
  
 <br>
 
-## Component
+## Components
 
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
@@ -50,16 +50,14 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 
 <br>
 
-## Mobile Component
+## Mobile Components
 
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
 |[AppLoader](https://github.com/nhnent/tui.app-loader)|앱로더 컴포넌트|[[API]](http://nhnent.github.io/tui.app-loader/latest/), [[Example]](http://nhnent.github.io/tui.app-loader/latest/tutorial-example01-basic.html), [[Tutorial]](https://github.com/nhnent/tui.app-loader/wiki/TUI-AppLoader-2.0.0-Migration-Guide)|
 |[Flicking](https://github.com/nhnent/tui.flicking/)|플리킹 컴포넌트|[[API]](http://nhnent.github.io/tui.flicking/latest/), [[Example]](https://nhnent.github.io/tui.flicking/latest/tutorial-example01-basic.html), [[Tutorial]](https://github.com/nhnent/tui.flicking/wiki/English-Version)|
 
-<br>
-
-## CodeSnippet
+## Utils
 
 |Name|Category|Description|Documentation|
 | ---- | ---- | ---- | ---- |
@@ -78,13 +76,13 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 | |string.js|문자열 관련 모듈||
 | |type.js|타입 체크 모듈||
 | |window.js|윈도우 객체 관련 모듈||
+|[Dom](https://github.com/nhnent/tui.dom)||DOM 유틸<br>(DOM 관련 클래스 지정 및 이벤트 바인딩 함수 모음)|[[API]](http://nhnent.github.io/tui.dom/latest/)|
 
 ## Library
 
 |Name|Description| Documentation |
 | ---- | ---- | ---- |
-|[Dom](https://github.com/nhnent/tui.dom)|DOM 유틸<br>(DOM 관련 클래스 지정 및 이벤트 바인딩 함수 모음)|[[API]](http://nhnent.github.io/tui.dom/latest/)|
-|[TUI JSDoc Template](https://github.com/nhnent/tui.jsdoc-template)|JSDoc Template (JS API 문서화 템플릿) | [[Demo]](https://nhnent.github.io/tui.jsdoc-template/latest/), [[Npm]](https://www.npmjs.com/package/tui-jsdoc-template)|
+|[TUI JSDoc Template](https://github.com/nhnent/tui.jsdoc-template)|JSDoc Template (JS API 문서화 템플릿) | [[Demo]](https://nhnent.github.io/tui.jsdoc-template/latest/), [[npm]](https://www.npmjs.com/package/tui-jsdoc-template)|
 
 ## License
 
