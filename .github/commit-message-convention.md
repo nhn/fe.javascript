@@ -1,6 +1,6 @@
 # TOAST UI Commit Message Convention
 
-> reference [AngularJS](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelineses), [ESLint]()
+> reference [AngularJS](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelineses), [ESLint](https://eslint.org/docs/developer-guide/contributing/pull-requests#step-2-make-your-changes)
 
 ## Commit Message Format
 
