@@ -23,7 +23,7 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 |[Chart](https://github.com/nhn/tui.chart)|차트|[[API]](https://nhn.github.io/tui.chart/latest/), [[Example]](https://ui.toast.com/tui-chart/), [[Tutorial]](https://github.com/nhn/tui.chart/blob/master/docs/wiki/getting-started.md)|
 |[Editor](https://github.com/nhn/tui.editor)|에디터|[[API]](https://nhn.github.io/tui.editor/api/latest/), [[Example]](https://nhn.github.io/tui.editor/), [[Tutorial]](https://github.com/nhn/tui.editor/blob/master/docs/getting-started.md)|
 |[Grid](https://github.com/nhn/tui.grid)|그리드|[[API]](https://nhn.github.io/tui.grid/latest/), [[Example]](https://ui.toast.com/tui-grid/), [[Tutorial]](https://github.com/nhn/tui.grid/blob/master/docs/getting-started.md)|
-|[Calendar](https://github.com/nhn/tui.calendar)|캘린더|[[API]](https://nhn.github.io/tui.calendar/api/latest/), [[Example]](https://ui.toast.com/tui-calendar/), [[Tutorial]](https://github.com/nhn/tui.calendar/blob/master/docs/getting-started.md)|
+|[Calendar](https://github.com/nhn/tui.calendar)|캘린더|[[API]](https://nhn.github.io/tui.calendar/latest/), [[Example]](https://ui.toast.com/tui-calendar/), [[Tutorial]](https://github.com/nhn/tui.calendar/blob/master/docs/getting-started.md)|
 |[ImageEditor](https://ui.toast.com/tui-image-editor/)|이미지 에디터|[[API]](http://nhn.github.io/tui.image-editor/latest/), [[Example]](https://ui.toast.com/tui-image-editor/), [[Tutorial]](https://github.com/nhn/tui.image-editor/blob/master/docs/Basic-Tutorial.md)|
  
 <br>
