@@ -32,23 +32,14 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
-|[Animation](https://github.com/nhn/tui.animation)|애니메이션 효과 컴포넌트| [[API]](https://nhn.github.io/tui.animation/latest/), [[Example]](https://nhn.github.io/tui.animation/latest/tutorial-example01-basic)|
 |[AutoComplete](https://github.com/nhn/tui.auto-complete)|검색어 자동완성 컴포넌트|[[API]](http://nhn.github.io/tui.auto-complete/latest/), [[Example]](http://nhn.github.io/tui.auto-complete/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.auto-complete/wiki)|
 |[ColorPicker](https://github.com/nhn/tui.color-picker)|컬러 피커 컴포넌트|[[API]](http://nhn.github.io/tui.color-picker/latest/), [[Example]](http://nhn.github.io/tui.color-picker/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.color-picker/wiki/Installation)|
 |[ContextMenu](https://github.com/nhn/tui.context-menu)|컨텍스트 메뉴 컴포넌트|[[API]](http://nhn.github.io/tui.context-menu/latest/), [[Example]](http://nhn.github.io/tui.context-menu/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.context-menu/wiki/English-Version)|
 |[DatePicker](https://github.com/nhn/tui.date-picker)|데이트 피커 컴포넌트|[[API]](http://nhn.github.io/tui.date-picker/latest/), [[Example]](https://nhn.github.io/tui.date-picker/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.date-picker/wiki/Getting-Started)|
-|[FileUploader](http://nhn.github.io/tui.file-uploader)|파일  업로더|[[API]](http://nhn.github.io/tui.file-uploader/latest/), [[Example]](https://nhn.github.io/tui.file-uploader/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.file-uploader/wiki/Tutorial)|
-|[FloatingLayer](https://github.com/nhn/tui.floating-layer)|플로팅 레이어 컴포넌트|[[API]](http://nhn.github.io/tui.floating-layer/latest/), [[Example]](https://nhn.github.io/tui.floating-layer/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.floating-layer/wiki/English-Version)|
-|[GestureReader](https://github.com/nhn/tui.gesture-reader)|제스처 리더 컴포넌트|[[API]](http://nhn.github.io/tui.gesture-reader/latest/), [[Example]](http://nhn.github.io/tui.gesture-reader/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.gesture-reader/wiki/English-Version)|
-|[ImageEditor](https://github.com/nhn/tui.image-editor)|이미지 에디터 컴포넌트|[[API]](http://nhn.github.io/tui.image-editor/latest/), [[Example]](http://nhn.github.io/tui.image-editor/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.image-editor/wiki/Basic-Tutorial)|
-|[Layout](https://github.com/nhn/tui.layout)|레이아웃 컴포넌트|[[API]](http://nhn.github.io/tui.layout/latest/), [[Example]](https://nhn.github.io/tui.layout/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.layout/wiki/English-Version)|
 |[Pagination](https://github.com/nhn/tui.pagination/)|페이지네이션 컴포넌트|[[API]](https://nhn.github.io/tui.pagination/latest/), [[Example]](https://nhn.github.io/tui.pagination/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.pagination/wiki/Getting-Started)|
-|[Placeholder](https://github.com/nhn/tui.placeholder)|플레이스홀더 컴포넌트|[[API]](http://nhn.github.io/tui.placeholder/latest/), [[Example]](https://nhn.github.io/tui.placeholder/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.placeholder/wiki/English-Version)|
 |[Rolling](https://github.com/nhn/tui.rolling)|롤링 컴포넌트|[[API]](http://nhn.github.io/tui.rolling/latest/), [[Example]](http://nhn.github.io/tui.rolling/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.rolling/wiki/English-Version)|
 |[TimePicker](https://github.com/nhn/tui.time-picker)|타임 피커 컴포넌트|[[API]](https://nhn.github.io/tui.time-picker/latest/), [[Example]](https://nhn.github.io/tui.time-picker/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.time-picker/wiki/Getting-Started)|
 |[Tree](https://github.com/nhn/tui.tree)|트리 컴포넌트|[[API]](http://nhn.github.io/tui.tree/latest/), [[Example]](https://nhn.github.io/tui.tree/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.tree/wiki/Tutorial)|
-|[VirtualKeyboard](https://github.com/nhn/tui.virtual-keyboard)|가상키보드 컴포넌트|[[API]](http://nhn.github.io/tui.virtual-keyboard/latest/), [[Example]](https://nhn.github.io/tui.virtual-keyboard/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.virtual-keyboard/wiki/English-Version)|
-|[VirtualScroll](https://github.com/nhn/tui.virtual-scroll)|가상스크롤 컴포넌트|[[API]](https://nhn.github.io/tui.virtual-scroll/latest/), [[Example]](https://nhn.github.io/tui.virtual-scroll/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.virtual-scroll/wiki/getting-started)|
 
 <br>
 
@@ -57,28 +48,12 @@ FE개발랩에서 프로젝트 및 내부 과제를 수행하면서 생산한 �
 |Name|Description|Documentation|
 | ---- | ---- | ---- |
 |[AppLoader](https://github.com/nhn/tui.app-loader)|앱로더 컴포넌트|[[API]](http://nhn.github.io/tui.app-loader/latest/), [[Example]](http://nhn.github.io/tui.app-loader/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.app-loader/wiki/TUI-AppLoader-2.0.0-Migration-Guide)|
-|[Flicking](https://github.com/nhn/tui.flicking/)|플리킹 컴포넌트|[[API]](http://nhn.github.io/tui.flicking/latest/), [[Example]](https://nhn.github.io/tui.flicking/latest/tutorial-example01-basic), [[Tutorial]](https://github.com/nhn/tui.flicking/wiki/English-Version)|
 
 ## Utils
 
-|Name|Category|Description|Documentation|
-| ---- | ---- | ---- | ---- |
-|[CodeSnippet](https://github.com/nhn/tui.code-snippet/)||코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhn.github.io/tui.code-snippet/latest/), [[Tutorial]](https://github.com/nhn/fe.javascript/wiki/Toast-UI-CodeSnippet)|
-| |browser.js|브라우저 검출하는 모듈||
-| |collection.js|콜렉션 관련 모듈||
-| |customEvent.js|커스텀이벤트 모듈||
-| |defineClass.js|클래스 관련 모듈||
-| |defineNamespace.js|네임스페이스 관련 모듈||
-| |enum.js|상수 관련 모듈||
-| |exMap.js|맵 관련 모듈||
-| |func.js|함수 관련 모듈||
-| |hashMap.js|해시맵 관련 모듈|deprecate 예정|
-| |inheritance.js|간단한 상속 모듈||
-| |object.js|객체 관련 모듈||
-| |string.js|문자열 관련 모듈||
-| |type.js|타입 체크 모듈||
-| |window.js|윈도우 객체 관련 모듈||
-|[Dom](https://github.com/nhn/tui.dom)||DOM 유틸<br>(DOM 관련 클래스 지정 및 이벤트 바인딩 함수 모음)|[[API]](http://nhn.github.io/tui.dom/latest/)|
+|Name|Description|Documentation|
+| ---- | ---- | ---- |
+|[CodeSnippet](https://github.com/nhn/tui.code-snippet/)|코드 스니펫<br>(자주 사용되는 코드 모음)|[[API]](https://nhn.github.io/tui.code-snippet/latest/), [[Tutorial]](https://github.com/nhn/tui.code-snippet/blob/master/docs/getting-started.md)|
 
 ## Library
 
